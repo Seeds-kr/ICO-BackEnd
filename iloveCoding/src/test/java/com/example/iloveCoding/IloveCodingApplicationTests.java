@@ -1,10 +1,10 @@
-package com.example.ilovecoding;
+package com.example.iloveCoding;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IlovecodingApplicationTests {
+class IloveCodingApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.example.ilovecoding;
+package com.example.iloveCoding;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IlovecodingApplication {
+public class IloveCodingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IlovecodingApplication.class, args);
+		SpringApplication.run(IloveCodingApplication.class, args);
 	}
 
 }
