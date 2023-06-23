@@ -5,37 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bee589a8-af54-4dc8-b219-89dd836234fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/iloveCoding/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iloveCoding/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iloveCoding/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iloveCoding/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iloveCoding/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iloveCoding/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iloveCoding/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iloveCoding/src/main/java/com/example/iloveCoding/IloveCodingApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iloveCoding/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iloveCoding/src/test/java/com/example/iloveCoding/IloveCodingApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ICO-BackEnd.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ilovecoding/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ilovecoding/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ilovecoding/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ilovecoding/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ilovecoding/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ilovecoding/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ilovecoding/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ilovecoding/src/main/java/com/example/ilovecoding/IlovecodingApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ilovecoding/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ilovecoding/src/test/java/com/example/ilovecoding/IlovecodingApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iloveCoding/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/iloveCoding/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iloveCoding/src/main/java/com/example/iloveCoding/IloveCodingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/iloveCoding/src/main/java/com/ico/iloveCoding/IloveCodingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iloveCoding/src/test/java/com/example/iloveCoding/IloveCodingApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/iloveCoding/src/test/java/com/ico/iloveCoding/IloveCodingApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +61,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/ICO-BackEnd/iloveCoding",
+    "last_opened_file_path": "C:/meeting-room-reservation",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.12249705",
@@ -141,6 +114,8 @@
       <workItem from="1684073072789" duration="434000" />
       <workItem from="1684134094786" duration="49000" />
       <workItem from="1684134233114" duration="85000" />
+      <workItem from="1684161650278" duration="21000" />
+      <workItem from="1684161876668" duration="15000" />
     </task>
     <servers />
   </component>

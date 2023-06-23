@@ -1,4 +1,4 @@
-package com.example.iloveCoding;
+package com.ico.iloveCoding;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
